@@ -293,7 +293,9 @@ header .container {
 }
 
 .hero-card {
-  background-color: #505050;
+  background-color: black;
+  width: 500px;
+  height: 500px;
 }
 .hero-banner {
   border: 20px solid var(--eerie-black-1);
